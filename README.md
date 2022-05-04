@@ -7,8 +7,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning Swift, C# and Python
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: xn0pyt@protonmail.com
 - 🎮 I like to play CS:GO, Terraria and RDR2
 
