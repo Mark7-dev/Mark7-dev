@@ -10,7 +10,9 @@
 
 ![Marks Github Stats](https://github-readme-stats.vercel.app/api?username=Mark7-dev&show_icons=true&theme=radical)
 
-<figure><embed src="https://wakatime.com/share/@0d44d07d-e4f3-4769-81c3-60ba3dcfe443/854ec685-8ed4-475e-b29b-8e6ef34cc18e.svg"></figure>
+.. image:: https://wakatime.com/share/@0d44d07d-e4f3-4769-81c3-60ba3dcfe443/3720252a-fc0d-4c87-b7a5-3f30f4620010.png
+    :target: https://wakatime.com/
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
